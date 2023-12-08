@@ -1,0 +1,7 @@
+Host=smtp.gmail.com
+Port=587
+SSL=True
+User=muzammil.solectronixit@gmail.com
+Pass=whyThetest1
+Limit=100
+Status=NA

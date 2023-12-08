@@ -1,0 +1,2 @@
+HFDJKGDFJGFFJKGFGJK
+LetterAttachment: C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\bin\SMTP\smtp_gmail_com.txt

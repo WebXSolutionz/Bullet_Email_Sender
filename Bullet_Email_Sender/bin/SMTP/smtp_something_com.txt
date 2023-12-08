@@ -1,0 +1,7 @@
+Host=smtp.something.com
+Port=25
+SSL=TLS
+User=adi
+Pass=ryan
+Limit=55
+Status=NA

@@ -1,0 +1,7 @@
+Host=smtp.yahoo.com
+Port=125
+SSL=aasso12
+User=adam
+Pass=asodkso
+Limit=35
+Status=NA

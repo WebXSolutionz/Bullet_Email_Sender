@@ -1,0 +1,6 @@
+This is the body of the new letter.
+
+It can be in HTML.
+
+Thank you.
+LetterAttachment: C:\Users\IT Extension 01\Downloads\bpsenderlogo_71736512 (1).png

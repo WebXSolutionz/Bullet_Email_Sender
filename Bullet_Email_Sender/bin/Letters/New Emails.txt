@@ -1,0 +1,4 @@
+This is a new email body.
+
+Thank you.
+LetterAttachment: C:\Users\IT Extension 01\Downloads\bpsenderlogo_71736512 (1).png

@@ -1,0 +1,5 @@
+Host=123.456.789
+Port=465
+User=someUser@gmail.com
+Pass=somdffjg
+Type=Sock4

@@ -1,0 +1,7 @@
+This is a new HTML FILE.
+
+I am now adding this file.
+
+This is a good file.
+
+LetterAttachment: C:\Users\IT Extension 01\Downloads\image (1).ico

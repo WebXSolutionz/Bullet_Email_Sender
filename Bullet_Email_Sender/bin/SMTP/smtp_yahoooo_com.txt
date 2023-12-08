@@ -1,0 +1,7 @@
+Host=smtp.yahoooo.com
+Port=124
+SSL=True
+User=something@somethingelse.com
+Pass=somethindf
+Limit=100
+Status=NA

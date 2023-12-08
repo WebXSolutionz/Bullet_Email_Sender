@@ -1,0 +1,5 @@
+Host=198.025.67.89
+Port=3306
+User=adam
+Pass=rayan
+Type=SOCK

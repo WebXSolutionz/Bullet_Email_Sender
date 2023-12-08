@@ -1,0 +1,7 @@
+Host=smtp.google.com
+Port=25
+SSL=1199
+User=adam
+Pass=test
+Limit=30
+Status=NA

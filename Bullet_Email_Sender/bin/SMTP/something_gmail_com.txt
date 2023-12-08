@@ -1,0 +1,7 @@
+Host=something.gmail.com
+Port=225
+SSL=True
+User=someting
+Pass=thatpassword
+Limit=100
+Status=NA

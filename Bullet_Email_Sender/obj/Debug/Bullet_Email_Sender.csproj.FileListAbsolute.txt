@@ -1,0 +1,16 @@
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\bin\Debug\Bullet_Email_Sender.exe.config
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\bin\Debug\Bullet_Email_Sender.exe
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\bin\Debug\Bullet_Email_Sender.pdb
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\bin\Debug\MaterialSkin.dll
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\obj\Debug\Bullet_Email_Sender.addLetter.resources
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\obj\Debug\Bullet_Email_Sender.addMailRecepient.resources
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\obj\Debug\Bullet_Email_Sender.addProductKey.resources
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\obj\Debug\Bullet_Email_Sender.addProxy.resources
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\obj\Debug\Bullet_Email_Sender.addSMTP.resources
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\obj\Debug\Bullet_Email_Sender.Form1.resources
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\obj\Debug\Bullet_Email_Sender.Properties.Resources.resources
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\obj\Debug\Bullet_Email_Sender.csproj.GenerateResource.cache
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\obj\Debug\Bullet_Email_Sender.csproj.CopyComplete
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\obj\Debug\Bullet_Email_Sender.exe
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\obj\Debug\Bullet_Email_Sender.pdb
+C:\Users\IT Extension 01\source\repos\Bullet_Email_Sender\Bullet_Email_Sender\obj\Debug\Bullet_Email_Sender.csprojAssemblyReference.cache

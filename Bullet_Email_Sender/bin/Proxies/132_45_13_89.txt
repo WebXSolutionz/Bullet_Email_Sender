@@ -1,0 +1,5 @@
+Host=132.45.13.89
+Port=3306
+User=test
+Pass=something
+Type=SOCK
